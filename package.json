@@ -1,0 +1,19 @@
+{
+  "name": "coursera-guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto NodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjarmenta/coursera-guia-hoteles.git"
+  },
+  "author": "Jose Jorge Armenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjarmenta/coursera-guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/jjarmenta/coursera-guia-hoteles#readme"
+}
