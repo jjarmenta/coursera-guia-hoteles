@@ -13,3 +13,4 @@
 4. Install bootstrap, jquery y popper.js
    * npm install bootstrap@4.6.2 --save
    * Add href node_modules
+5. Add Jumbotron, Footer, Flex y Css
