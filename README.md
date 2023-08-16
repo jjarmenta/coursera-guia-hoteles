@@ -1,12 +1,15 @@
-# COURSERA: GUÍA HOTELES
+# COURSERA: Hotels
 
-## Diseñando página web con Bootstrap4
+## Design web Bootstrap4
 
-1. Instalando NPM
+1. Install NPM
    * npm -v
-   * npm init (configuración package.json)
-2. Instalar servidor (versión lite)
+   * npm init (config package.json)
+2. Install server (versión lite)
    * npm install lite-server --save-dev 
    * Add script "dev": "lite-server"
    * npm run dev
 3. Add index.html
+4. Install bootstrap, jquery y popper.js
+   * npm install bootstrap@4.6.2 --save
+   * Add href node_modules
