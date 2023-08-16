@@ -1,3 +1,3 @@
-# GUÍA HOTELES
+# COURSERA: GUÍA HOTELES
 
-Coursera: Diseñando página web con Bootstrap4
+Diseñando página web con Bootstrap4
