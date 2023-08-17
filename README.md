@@ -13,6 +13,7 @@
 4. Install bootstrap, jquery y popper.js
    * npm install bootstrap@4.6.2 --save
    * Add href node_modules
-5. Add Jumbotron, Footer, Flex y Css
+5. Add Jumbotron, Footer, Flex and Css
 6. Add Navbar, collapse
-7. Add about.html, lorem ipsum y breadcrumb
+7. Add about.html, lorem ipsum and breadcrumb
+8. Install open-iconic
