@@ -19,3 +19,4 @@
 8. Install open-iconic
 9. Add form
 10. Add tables
+11. Add cards, card-img-top
