@@ -17,3 +17,4 @@
 6. Add Navbar, collapse
 7. Add about.html, lorem ipsum and breadcrumb
 8. Install open-iconic
+9. Add form
